@@ -2,8 +2,7 @@ Projet en cours de développement
 
 # Mako  
 
-Mako est un moteur de templates pour le langage de programmation *Python*. Mako est utilisé par *Reddit*. Il s'agit du langage de template inclus par défaut dans les frameworks Web Pylons et Pyramid. [Mako](https://www.makotemplates.org/)
-Il utilise [pyramid](http://www.pylonsproject.org/), à l'instar de jinja utilisé dans *django*.
+Mako est un moteur de templates pour le langage de programmation *Python*. Mako est utilisé par *Reddit*. Il s'agit du langage de template inclus par défaut dans les frameworks Web Pylons et Pyramid. [Mako](https://www.makotemplates.org/) utilise [pyramid](http://www.pylonsproject.org/), à l'instar de jinja utilisé dans *django*.
 Son principal atout est de pouvoir utiliser directement du python à l'aide des balises **<% %>** dans les templates.
 
 Pour installer mako: 
