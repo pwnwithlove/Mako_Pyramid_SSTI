@@ -134,26 +134,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<div class="site-header-upper-wrap">
 				<div class="site-header-upper-inner-wrap">
 					<div class="site-top-header-wrap site-header-row-container site-header-focus-item site-header-row-layout-standard" data-section="thebase_customizer_header_top">
-	<div class="site-header-row-container-inner">
-				<div class="site-container">
-			<div class="site-top-header-inner-wrap site-header-row site-header-row-has-sides site-header-row-no-center">
-									<div class="site-header-top-section-left site-header-section site-header-section-left">
-						<div class="site-header-item site-header-focus-item" data-section="thebase_customizer_header_social">
-	<div class="header-social-wrap"><div class="header-social-inner-wrap element-social-inner-wrap social-show-label-false social-style-outline"><a href="" aria-label="Facebook" class="social-button header-social-item social-link-facebookAlt2"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-facebook-alt2-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="16" height="28" viewBox="0 0 16 28"><title>Facebook</title><path d="M14.984 0.187v4.125h-2.453c-1.922 0-2.281 0.922-2.281 2.25v2.953h4.578l-0.609 4.625h-3.969v11.859h-4.781v-11.859h-3.984v-4.625h3.984v-3.406c0-3.953 2.422-6.109 5.953-6.109 1.687 0 3.141 0.125 3.563 0.187z"></path>
-				</svg></span></a><a href="" aria-label="google_reviews" class="social-button header-social-item social-link-google_reviews"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-google-reviews-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="28" viewBox="0 0 24 28"><title>Google Reviews</title><path d="M12 12.281h11.328c0.109 0.609 0.187 1.203 0.187 2 0 6.844-4.594 11.719-11.516 11.719-6.641 0-12-5.359-12-12s5.359-12 12-12c3.234 0 5.953 1.188 8.047 3.141l-3.266 3.141c-0.891-0.859-2.453-1.859-4.781-1.859-4.094 0-7.438 3.391-7.438 7.578s3.344 7.578 7.438 7.578c4.75 0 6.531-3.406 6.813-5.172h-6.813v-4.125z"></path>
-				</svg></span></a><a href="" aria-label="Instagram" class="social-button header-social-item social-link-instagramAlt"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-instagram-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Instagram</title><path d="M7 1c-1.657 0-3.158 0.673-4.243 1.757s-1.757 2.586-1.757 4.243v10c0 1.657 0.673 3.158 1.757 4.243s2.586 1.757 4.243 1.757h10c1.657 0 3.158-0.673 4.243-1.757s1.757-2.586 1.757-4.243v-10c0-1.657-0.673-3.158-1.757-4.243s-2.586-1.757-4.243-1.757zM7 3h10c1.105 0 2.103 0.447 2.828 1.172s1.172 1.723 1.172 2.828v10c0 1.105-0.447 2.103-1.172 2.828s-1.723 1.172-2.828 1.172h-10c-1.105 0-2.103-0.447-2.828-1.172s-1.172-1.723-1.172-2.828v-10c0-1.105 0.447-2.103 1.172-2.828s1.723-1.172 2.828-1.172zM16.989 11.223c-0.15-0.972-0.571-1.857-1.194-2.567-0.754-0.861-1.804-1.465-3.009-1.644-0.464-0.074-0.97-0.077-1.477-0.002-1.366 0.202-2.521 0.941-3.282 1.967s-1.133 2.347-0.93 3.712 0.941 2.521 1.967 3.282 2.347 1.133 3.712 0.93 2.521-0.941 3.282-1.967 1.133-2.347 0.93-3.712zM15.011 11.517c0.122 0.82-0.1 1.609-0.558 2.227s-1.15 1.059-1.969 1.18-1.609-0.1-2.227-0.558-1.059-1.15-1.18-1.969 0.1-1.609 0.558-2.227 1.15-1.059 1.969-1.18c0.313-0.046 0.615-0.042 0.87-0.002 0.74 0.11 1.366 0.47 1.818 0.986 0.375 0.428 0.63 0.963 0.72 1.543zM17.5 7.5c0.552 0 1-0.448 1-1s-0.448-1-1-1-1 0.448-1 1 0.448 1 1 1z"></path>
-				</svg></span></a><a href="" aria-label="Twitter" class="social-button header-social-item social-link-twitter"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-twitter-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="26" height="28" viewBox="0 0 26 28"><title>Twitter</title><path d="M25.312 6.375c-0.688 1-1.547 1.891-2.531 2.609 0.016 0.219 0.016 0.438 0.016 0.656 0 6.672-5.078 14.359-14.359 14.359-2.859 0-5.516-0.828-7.75-2.266 0.406 0.047 0.797 0.063 1.219 0.063 2.359 0 4.531-0.797 6.266-2.156-2.219-0.047-4.078-1.5-4.719-3.5 0.313 0.047 0.625 0.078 0.953 0.078 0.453 0 0.906-0.063 1.328-0.172-2.312-0.469-4.047-2.5-4.047-4.953v-0.063c0.672 0.375 1.453 0.609 2.281 0.641-1.359-0.906-2.25-2.453-2.25-4.203 0-0.938 0.25-1.797 0.688-2.547 2.484 3.062 6.219 5.063 10.406 5.281-0.078-0.375-0.125-0.766-0.125-1.156 0-2.781 2.25-5.047 5.047-5.047 1.453 0 2.766 0.609 3.687 1.594 1.141-0.219 2.234-0.641 3.203-1.219-0.375 1.172-1.172 2.156-2.219 2.781 1.016-0.109 2-0.391 2.906-0.781z"></path>
-				</svg></span></a></div></div></div><!-- data-section="header_social" -->
-					</div>
-																	<div class="site-header-top-section-right site-header-section site-header-section-right">
-						<div class="site-header-item site-header-focus-item" data-section="thebase_customizer_header_contact">
-	<div class="header-contact-wrap"><div class="header-contact-inner-wrap element-contact-inner-wrap inner-link-style-plain"><span class="contact-button header-contact-item"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-email-alt-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28"><title>Email</title><path d="M28 11.094v12.406c0 1.375-1.125 2.5-2.5 2.5h-23c-1.375 0-2.5-1.125-2.5-2.5v-12.406c0.469 0.516 1 0.969 1.578 1.359 2.594 1.766 5.219 3.531 7.766 5.391 1.313 0.969 2.938 2.156 4.641 2.156h0.031c1.703 0 3.328-1.188 4.641-2.156 2.547-1.844 5.172-3.625 7.781-5.391 0.562-0.391 1.094-0.844 1.563-1.359zM28 6.5c0 1.75-1.297 3.328-2.672 4.281-2.438 1.687-4.891 3.375-7.313 5.078-1.016 0.703-2.734 2.141-4 2.141h-0.031c-1.266 0-2.984-1.437-4-2.141-2.422-1.703-4.875-3.391-7.297-5.078-1.109-0.75-2.688-2.516-2.688-3.938 0-1.531 0.828-2.844 2.5-2.844h23c1.359 0 2.5 1.125 2.5 2.5z"></path>
-				</svg></span><span class="contact-label">exmaple@gmail.com</span></span><span class="contact-button header-contact-item"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-phone-alt2-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="28" viewBox="0 0 24 28"><title>Phone</title><path d="M20 18.641c0-0.078 0-0.172-0.031-0.25-0.094-0.281-2.375-1.437-2.812-1.687-0.297-0.172-0.656-0.516-1.016-0.516-0.688 0-1.703 2.047-2.312 2.047-0.313 0-0.703-0.281-0.984-0.438-2.063-1.156-3.484-2.578-4.641-4.641-0.156-0.281-0.438-0.672-0.438-0.984 0-0.609 2.047-1.625 2.047-2.312 0-0.359-0.344-0.719-0.516-1.016-0.25-0.438-1.406-2.719-1.687-2.812-0.078-0.031-0.172-0.031-0.25-0.031-0.406 0-1.203 0.187-1.578 0.344-1.031 0.469-1.781 2.438-1.781 3.516 0 1.047 0.422 2 0.781 2.969 1.25 3.422 4.969 7.141 8.391 8.391 0.969 0.359 1.922 0.781 2.969 0.781 1.078 0 3.047-0.75 3.516-1.781 0.156-0.375 0.344-1.172 0.344-1.578zM24 6.5v15c0 2.484-2.016 4.5-4.5 4.5h-15c-2.484 0-4.5-2.016-4.5-4.5v-15c0-2.484 2.016-4.5 4.5-4.5h15c2.484 0 4.5 2.016 4.5 4.5z"></path>
-				</svg></span><span class="contact-label">0123 456 789</span></span></div></div></div><!-- data-section="header_contact" -->
-					</div>
-							</div>
-		</div>
-	</div>
+	
 </div>
 <div class="site-main-header-wrap site-header-row-container site-header-focus-item site-header-row-layout-standard" data-section="thebase_customizer_header_main">
 	<div class="site-header-row-container-inner">
@@ -187,10 +168,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	<li id="menu-item-11466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11466"><a href="#"><span class="nav-drop-title-wrap">Shop Page<span class="dropdown-nav-toggle"><span class="thebase-svg-iconset svg-baseline"><svg aria-hidden="true" class="thebase-svg-icon thebase-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></span></span></a>
 	<ul class="sub-menu">
-		<li id="menu-item-11475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11475"><a href="./my-account.html">My account</a></li>
+		<li id="menu-item-11475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11475"><a href="./my-account">My account</a></li>
 		<li id="menu-item-11476" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11476"><a href="https://demos.codezeel.com/wordpress/WP01/WP008/checkout/">Checkout</a></li>
 		<li id="menu-item-11477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11477"><a href="https://demos.codezeel.com/wordpress/WP01/WP008/cart/">Cart</a></li>
-		<li id="menu-item-11485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11485"><a href="./my-account.html">Downloads</a></li>
+		<li id="menu-item-11485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11485"><a href="./my-account">Downloads</a></li>
 	</ul>
 </li>
 </ul>
@@ -219,7 +200,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 	</div><!-- data-section="header_search" -->
 <div class="site-header-item site-header-focus-item" data-section="thebase_customizer_header_account">
-	<div class="header-account-wrap header-account-control-wrap header-account-action-link header-account-style-label"><a href="./my-account.html" class="header-account-button">						<span class="header-account-label">Login</span>
+	<div class="header-account-wrap header-account-control-wrap header-account-action-link header-account-style-label"><a href="./my-account" class="header-account-button">						<span class="header-account-label">Login</span>
 						</a></div></div><!-- data-section="header_account" -->
 					</div>
 							</div>
@@ -285,7 +266,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	</div>
 	</div><!-- data-section="header_search" -->
 <div class="site-header-item site-header-focus-item" data-section="thebase_customizer_header_mobile_account">
-	<div class="header-mobile-account-wrap header-account-control-wrap header-account-action-link header-account-style-icon"><a href="./my-account.html" class="header-account-button"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-account-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Account</title><path d="M21 21v-2c0-1.38-0.561-2.632-1.464-3.536s-2.156-1.464-3.536-1.464h-8c-1.38 0-2.632 0.561-3.536 1.464s-1.464 2.156-1.464 3.536v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2c0-0.829 0.335-1.577 0.879-2.121s1.292-0.879 2.121-0.879h8c0.829 0 1.577 0.335 2.121 0.879s0.879 1.292 0.879 2.121v2c0 0.552 0.448 1 1 1s1-0.448 1-1zM17 7c0-1.38-0.561-2.632-1.464-3.536s-2.156-1.464-3.536-1.464-2.632 0.561-3.536 1.464-1.464 2.156-1.464 3.536 0.561 2.632 1.464 3.536 2.156 1.464 3.536 1.464 2.632-0.561 3.536-1.464 1.464-2.156 1.464-3.536zM15 7c0 0.829-0.335 1.577-0.879 2.121s-1.292 0.879-2.121 0.879-1.577-0.335-2.121-0.879-0.879-1.292-0.879-2.121 0.335-1.577 0.879-2.121 1.292-0.879 2.121-0.879 1.577 0.335 2.121 0.879 0.879 1.292 0.879 2.121z"></path>
+	<div class="header-mobile-account-wrap header-account-control-wrap header-account-action-link header-account-style-icon"><a href="./my-account" class="header-account-button"><span class="thebase-svg-iconset"><svg class="thebase-svg-icon thebase-account-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Account</title><path d="M21 21v-2c0-1.38-0.561-2.632-1.464-3.536s-2.156-1.464-3.536-1.464h-8c-1.38 0-2.632 0.561-3.536 1.464s-1.464 2.156-1.464 3.536v2c0 0.552 0.448 1 1 1s1-0.448 1-1v-2c0-0.829 0.335-1.577 0.879-2.121s1.292-0.879 2.121-0.879h8c0.829 0 1.577 0.335 2.121 0.879s0.879 1.292 0.879 2.121v2c0 0.552 0.448 1 1 1s1-0.448 1-1zM17 7c0-1.38-0.561-2.632-1.464-3.536s-2.156-1.464-3.536-1.464-2.632 0.561-3.536 1.464-1.464 2.156-1.464 3.536 0.561 2.632 1.464 3.536 2.156 1.464 3.536 1.464 2.632-0.561 3.536-1.464 1.464-2.156 1.464-3.536zM15 7c0 0.829-0.335 1.577-0.879 2.121s-1.292 0.879-2.121 0.879-1.577-0.335-2.121-0.879-0.879-1.292-0.879-2.121 0.335-1.577 0.879-2.121 1.292-0.879 2.121-0.879 1.577 0.335 2.121 0.879 0.879 1.292 0.879 2.121z"></path>
 				</svg></span></a></div></div><!-- data-section="header_mobile_account" -->
 					</div>
 							</div>
@@ -320,8 +301,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<rs-module-wrap id="rev_slider_1_1_wrapper" data-source="gallery" style="visibility:hidden;background:#222222;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
 				<rs-module id="rev_slider_1_1" style="" data-version="6.5.25">
 					<rs-slides>
-						<rs-slide style="position: absolute;" data-key="rs-1" data-title="main banner1" data-thumb="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/uploads/2022/07/main-banner-01-100x50.jpg" data-anim="d:50;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-							<img decoding="async" src="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="main-banner-01" width="1903" height="760" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/uploads/2022/07/main-banner-01.jpg" data-no-retina>
+						<rs-slide style="position: absolute;" data-key="rs-1" data-title="main banner1" data-thumb="https://i.imgflip.com/ojew.jpg?a466968" data-anim="d:50;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+							<img decoding="async" src="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="main-banner-01" width="1903" height="760" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="https://images5.alphacoders.com/104/1046695.jpg" data-no-retina>
 <!--
 							--><rs-layer
 								id="slider-1-slide-1-layer-0" 
@@ -352,9 +333,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:2500;"
 								style="z-index:9;font-family:'Nunito';"
-							>Nurture And Care <br />
-For All Life 
-							</rs-layer><!--
+							>i'm just a lil script kitti <br />
+						</rs-layer><!--
 
 							--><rs-layer
 								id="slider-1-slide-1-layer-7" 
@@ -367,11 +347,11 @@ For All Life
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:2500;"
 								style="z-index:10;font-family:'Nunito';"
-							>Healthy, Happy, And Safe 
+							>(૭ ｡•̀ ᵕ •́｡ )૭
 							</rs-layer><!--
 -->						</rs-slide>
-						<rs-slide style="position: absolute;" data-key="rs-2" data-title="main banner2" data-thumb="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/uploads/2022/07/main-banner-02-100x50.jpg" data-anim="d:50;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-							<img decoding="async" src="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="main-banner-02" width="1903" height="760" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//demos.codezeel.com/wordpress/WP01/WP008/wp-content/uploads/2022/07/main-banner-02.jpg" data-no-retina>
+						<rs-slide style="position: absolute;" data-key="rs-2" data-title="main banner2" data-thumb="https://i.imgflip.com/ojew.jpg?a466968" data-anim="d:50;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+							<img decoding="async" src="https://i.imgflip.com/ojew.jpg?a466968" alt="" title="main-banner-02" width="1903" height="760" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="https://www.lifesavvy.com/p/uploads/2020/10/269d4e5a.jpg?height=200p&trim=2,2,2,2&crop=16:9" data-no-retina>
 <!--
 							--><rs-layer
 								id="slider-1-slide-2-layer-0" 
@@ -402,8 +382,7 @@ For All Life
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:2500;"
 								style="z-index:9;font-family:'Nunito';"
-							>Get The Best Pet<br />
-Supplies Store 
+							>and u a lil hacker<br />
 							</rs-layer><!--
 
 							--><rs-layer
@@ -417,7 +396,7 @@ Supplies Store
 								data-frame_1="sp:2000;"
 								data-frame_999="o:0;st:w;sR:2500;"
 								style="z-index:10;font-family:'Nunito';"
-							>Find The Latest Funny Animal 
+							> ପ(๑•ᴗ•๑)ଓ ♡
 							</rs-layer><!--
 -->						</rs-slide>
 					</rs-slides>
@@ -1551,10 +1530,10 @@ if (urlFields) {
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11466"><div class="drawer-nav-drop-wrap"><a href="#">Shop Page</a><button class="drawer-sub-toggle" data-toggle-duration="10" data-toggle-target="#mobile-menu .menu-item-11466 &gt; .sub-menu" aria-expanded="false"><span class="screen-reader-text">Expand child menu</span><span class="thebase-svg-iconset"><svg aria-hidden="true" class="thebase-svg-icon thebase-arrow-down-svg" fill="currentColor" version="1.1" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><title>Expand</title><path d="M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z"></path>
 				</svg></span></button></div>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11475"><a href="./my-account.html">My account</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11475"><a href="./my-account">My account</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11476"><a href="https://demos.codezeel.com/wordpress/WP01/WP008/checkout/">Checkout</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11477"><a href="https://demos.codezeel.com/wordpress/WP01/WP008/cart/">Cart</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11485"><a href="./my-account.html">Downloads</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11485"><a href="./my-account">Downloads</a></li>
 	</ul>
 </li>
 </ul>
