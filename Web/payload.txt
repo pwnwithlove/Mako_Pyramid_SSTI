@@ -1,1 +1,3 @@
 ${self.module.cache.util.os.popen("id").read()}
+
+${self}

@@ -3,3 +3,4 @@ def includeme(config):
     config.add_route('index', '/')
     config.add_route('myaccount', '/my-account')
     config.add_route('test', '/test')
+    config.add_route('invalidusername','/invalid-username')

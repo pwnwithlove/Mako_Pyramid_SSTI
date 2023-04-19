@@ -10,14 +10,19 @@ def index(request):
 @view_config(route_name='myaccount', renderer='pyramid_scaffold:templates/my-account.mako')
 def myaccount(request):
     if 'user_login' in request.params:
-        print(request.params)
         path_to_html_file_account = "pyramid_scaffold/templates/my-account.mako"
         html_file_account = open(path_to_html_file_account,"r").read()
-        template = Template(html_file_account % request.params['user_login']) 
+        data = html_file_account.replace("{{user_login}}",request.params['user_login'])
+        template = Template(data) 
         return Response(template.render())
     else:
         template = Template(filename="pyramid_scaffold/templates/my-account.mako")
         return Response(template.render())
+
+@view_config(route_name='invalidusername', renderer='pyramid_scaffold:templates/invalid-username.mako')
+def invalidusername(request):
+    return {'project': 'Pyramid Scaffold'}
+
 
 #def myaccount(request):
     #if 'user_login' in request.params:
