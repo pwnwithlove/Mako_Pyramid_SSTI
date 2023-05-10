@@ -2,7 +2,7 @@
 #just to setup automatically the environnement cuz i'm lazy 
 
 function setup_fun {
-    cd "./Pyramid Server"
+    cd "./Pyramid_Server"
     export VENV=~/env
     echo "[+] Creation of the virtual environment.." && python3 -m venv $VENV
     echo "[+] Installation of the project.. " && $VENV/bin/pip install -e . > /dev/null

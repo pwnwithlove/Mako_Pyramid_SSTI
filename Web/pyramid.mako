@@ -1,1 +1,0 @@
-<p>mimi ${pseudo}</p>
