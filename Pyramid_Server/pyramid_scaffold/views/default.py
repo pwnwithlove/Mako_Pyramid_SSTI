@@ -12,7 +12,7 @@ def myaccount(request):
     if 'user_login' in request.params:
         path_to_html_file_account = "pyramid_scaffold/templates/invalid-username.mako"
         html_file_account = open(path_to_html_file_account,"r").read()
-        data = html_file_account.replace("{{user_login}}",request.params['user_login'])
+        data = html_file_account.replace("{{user_login}}",request.params['user_login']) #regex
         template = Template(data) 
         return Response(template.render())
     else:
@@ -22,11 +22,3 @@ def myaccount(request):
 @view_config(route_name='invalidusername', renderer='pyramid_scaffold:templates/invalid-username.mako')
 def invalidusername(request):
     return {'project': 'Pyramid Scaffold'}
-
-
-#def myaccount(request):
-    #if 'user_login' in request.params:
-        #template = Template(filename="pyramid_scaffold/templates/my-account.mako" & request.params['user_login']) #Création de la template
-        #return Response(template.render())
-    #else: 
-        #"return Response(template.render())

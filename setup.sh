@@ -1,5 +1,4 @@
 #!/bin/bash
-#just to setup automatically the environnement cuz i'm lazy 
 
 function setup_fun {
     cd "./Pyramid_Server"

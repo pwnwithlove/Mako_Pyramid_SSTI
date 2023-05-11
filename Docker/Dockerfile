@@ -1,13 +1,13 @@
 FROM python:3.8
 
-COPY ./static/ /app
+COPY ./static/ /home/webmaster/app
 
-WORKDIR /app
+RUN chmod -R 777 /home/webmaster/app && useradd -ms /bin/bash webmaster
 
-RUN chmod -R +x /app
+USER webmaster
+
+WORKDIR /home/webmaster/app
 
 EXPOSE 6543
 
-CMD  /bin/sh /app/entrypoint.sh
-
-
+CMD  /bin/sh /home/webmaster/app/entrypoint.sh

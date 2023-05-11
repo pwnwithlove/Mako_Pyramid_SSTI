@@ -298,7 +298,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 			<li>
 			Invalid username or email. </br> Check if {{user_login}} is correct		</li>
 	</ul>
-</div>
+</div> 
 <form method="post" class="woocommerce-ResetPassword lost_reset_password">
 	
 	<p>Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</p>
