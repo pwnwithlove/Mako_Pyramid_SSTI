@@ -2,7 +2,8 @@ FROM python:3.8
 
 COPY ./static/ /home/webmaster/app
 
-RUN chmod -R 777 /home/webmaster/app && useradd -ms /bin/bash webmaster
+RUN chmod -R 777 /home/webmaster/app \
+    && useradd -ms /bin/bash webmaster
 
 USER webmaster
 
